@@ -1,0 +1,31 @@
+h1{
+	color:white;
+}
+.header, #user{
+	background-color: blue;
+}
+
+.opc{
+margin-left:5px;
+margin-top:5px;
+width:350px;
+cursor:pointer;
+}
+#opcs {
+width:350px;
+height:150px;
+overflow: auto;
+}
+.fa-user{
+	color: white !important;
+}
+
+
+#userlogin{
+	background: white;
+
+}
+
+.favori{
+	color:yellow;
+}
